@@ -1,0 +1,10 @@
+pydantic>=2.7.4,<3.0.0
+langchain-core==0.3.70
+langchain>=0.1.16
+langchain-openai>=0.1.6
+langchain-community>=0.3.27
+openai>=1.30.1
+langgraph==0.5.4
+langgraph-sdk>=0.1.42,<0.2.0
+langgraph-checkpoint==2.1.0
+langgraph-prebuilt==0.5.2

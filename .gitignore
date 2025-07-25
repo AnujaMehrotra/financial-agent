@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.envrc
+*.env
+
+# VSCode & IDE settings
+.vscode/
+.idea/
+
+# macOS system files
+.DS_Store
+
+# Logs & temp files
+*.log
+*.tmp
+*.bak
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# FAISS index or embedding files
+index/
+*.faiss
+*.pkl
+
+# Pytest cache
+.pytest_cache/
+.cache/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Local data
+data/
+!data/.gitkeep
+
+# Exported results
+out
+data/.gitkeep
